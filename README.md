@@ -28,6 +28,10 @@ into a Power BI dashboard — updated daily via Windows Task Scheduler.
 2. Historical Trends — 13 year pollutant analysis
 3. Pollutant Deep Dive — what improved vs what didn't
 4. Weekday vs Weekend — traffic impact analysis
+<img width="1300" height="734" alt="image" src="https://github.com/user-attachments/assets/4d70e600-0b1b-4b24-89dd-4d7e1b0b6e81" />
+<img width="1311" height="747" alt="image" src="https://github.com/user-attachments/assets/cba45726-c080-491f-863d-e852739efe7e" />
+<img width="1324" height="751" alt="image" src="https://github.com/user-attachments/assets/efb4c655-e0ea-4d92-8dd4-c01066d46ff6" />
+<img width="1295" height="734" alt="image" src="https://github.com/user-attachments/assets/f39a3ae5-6183-4197-9cc8-6301729846f2" />
 
 ## Data Sources
 - Live: data.gov.in CPCB API
