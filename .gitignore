@@ -1,0 +1,7 @@
+config.py
+passwordslinks.txt
+delhiKaggleData/
+delhiLiveData/
+__pycache__/
+*.pyc
+*.csv
